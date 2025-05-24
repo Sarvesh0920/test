@@ -1,2 +1,16 @@
 Hello World
 Welcome to Github
+
+
+git clone  url
+cd test
+
+create new file
+save file
+
+git status = it will show you the changes
+git add .  = it will add all the files for upload
+git commit -m "put your message"  =put your project updates
+git push origin main = (main) is the branch
+
+git pull origin main = to fetch the data from GitHub server.
